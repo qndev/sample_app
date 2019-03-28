@@ -31,3 +31,7 @@
 
 en:
   hello: "Hello world"
+  base_title: "Ruby on Rails Tutorial Sample App"
+  book_title: "Ruby on Rails Tutorial"
+  rails_help: "Rails Tutorial help section"
+  content_html: '<a href="https://www.railstutorial.org/book"><em>Ruby on Rails Tutorial</em>book</a>.'
