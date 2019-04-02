@@ -1,6 +1,4 @@
-<% provide(:title, "Contact") %>
-<h1>Contact</h1>
-<p>
-  Contact the Ruby on Rails Tutorial about the sample app at the
-  <%= link_to "contact page", "https://www.railstutorial.org/contact" %>.
-</p>
+<% provide:title, I18n.t("static-pages.contact.title") %>
+<h1><%= I18n.t "static-pages.contact.title" %></h1>
+<p><%= t "static-pages.contact.content_html" %></p>
+
