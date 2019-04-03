@@ -1,3 +1,50 @@
 vi:
-  hello: "Xin Chào"
+  hello: "Xin chào"
+  static-pages:
+    home: 
+      title: "Trang chủ"
+      header_title: "Sample App"
+      welcome: "Chào mừng bạn đến với Sample App"
+      content_html: '<h2>Đây là trang chủ của ứng dụng 
+      <a href="https://www.railstutorial.org/">Ruby on Rails Tutorial</a>.
+      </h2>'
+    about:
+      title: "Về chúng tôi"
+      content_html: '<a href="https://www.railstutorial.org/"><em>Ruby on Rails
+      Tutorial</em></a> là một 
+      <a href="https://www.railstutorial.org/book">cuốn sách</a> và
+      <a href="http://screencasts.railstutorial.org/">các screencast</a>
+      để dạy phát triển web với
+      <a href="http://rubyonrails.org/">Ruby on Rails</a>.
+      Đây là tất cả các hướng dẫn cụ thể cho một ứng dụng mẫu.' 
+    contact:
+      title: "Liên hệ"
+      content_html: 'Liên hệ với chúng tôi về ứng dụng
+      <a href="https://www.railstutorial.org/contact">tại đây</a>.'
+    help:
+      title: "Trợ giúp"
+      content_html: 'Nhận trợ giúp về Hướng dẫn Ruby on Rails tại
+      <a href="http://www.railstutorial.org/help">Phần trợ giúp của Rails Tutorial</a>.
+      Để nhận trợ giúp về ứng dụng mẫu này, hãy xem sách
+      <a href="http://www.railstutorial.org/book"><em>Ruby on Rails Tutorial</em>
+      book</a>.'
+    users:
+      new:
+        title: "Đăng ký"
+        sign_up: "Đăng ký tài khoản ngay bây giờ!"
+        content_html: '<p>This will be a signup page for new users.</p>'
+        log_in: "Đăng nhập"
+        log_out: "Đăng xuất"
+        profile: "Thông tin tài khoản"
+        setting: "Cài đặt"
+        user: "Người dùng"
+        edit: "Cập nhật tài khoản người dùng"
+        create_account: "Tạo tài khoản"
+        save_edit: "Lưu thay đổi"
+        update_profile: "Cập nhật thông tin tài khoản"
+        user_index: "Tất cả người dùng"
+      account: "Tài khoản"
   base_title: "Ruby on Rails Tutorial Sample App"
+  book_title: "Ruby on Rails Tutorial"
+  rails_help: "Rails Tutorial help section"
+  content_html: '<a href="https://www.railstutorial.org/book"><em>Ruby on Rails Tutorial</em>book</a>.'
