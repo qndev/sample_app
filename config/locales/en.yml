@@ -60,6 +60,11 @@ en:
         title: "Sign up"
         sign_up: "Sign up now!"
         content_html: '<p>This will be a signup page for new users.</p>'
+        log_in: "Log in"
+        log_out: "Log out"
+        profile: "Profile"
+        setting: "Settings"
+        user: "Users"
   base_title: "Ruby on Rails Tutorial Sample App"
   book_title: "Ruby on Rails Tutorial"
   rails_help: "Rails Tutorial help section"
