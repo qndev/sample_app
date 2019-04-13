@@ -44,10 +44,7 @@ GEM
     arel (8.0.0)
     autoprefixer-rails (9.5.0)
       execjs
-<<<<<<< HEAD
-=======
     bcrypt (3.1.12)
->>>>>>> Make a basic User model (including secure passwords)
     bindex (0.5.0)
     bootstrap-sass (3.3.7)
       autoprefixer-rails (>= 5.2.1)
@@ -224,10 +221,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-<<<<<<< HEAD
-=======
   bcrypt (= 3.1.12)
->>>>>>> Make a basic User model (including secure passwords)
   bootstrap-sass (= 3.3.7)
   byebug
   capybara (~> 2.13)
